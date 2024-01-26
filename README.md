@@ -59,7 +59,7 @@ So for customer segmentation, K-Means algorithm has been applied. As KMeans algo
 
 The figure below shows the segments of the customer along the first 2 components as PCA1 on x-axis and PCA2 on y-axis.  
 The figure below shows the segments of the customer along the first 2 components as PCA1 on x-axis and PCA2 on y-axis.  
-![Customer Segments]('https://github.com/muhammadfhaider12/InstacartMarketBasketAnalysis/blob/main/Plots/Customer%20Segmentation.png')
+![Customer Segments](https://github.com/muhammadfhaider12/InstacartMarketBasketAnalysis/blob/main/Plots/Customer%20Segmentation.png)
 
 From the figure above, following are the conclusions:  
 * Segment 1 belongs to the 5439 customers with a strong preference towards water seltzer sparkling water.  
